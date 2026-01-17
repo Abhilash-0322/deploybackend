@@ -1,0 +1,12 @@
+[package]
+name = "VulnerableContracts"
+version = "1.0.0"
+authors = ["Hackathon Demo"]
+
+[addresses]
+demo = "_"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+subdir = "aptos-move/framework/aptos-framework"
+rev = "mainnet"

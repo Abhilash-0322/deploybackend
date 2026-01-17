@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Node - exclude heavy folders but keep source
+**/node_modules/
+frontend-next/.next/
+frontend-next/out/
+
+# Git
+.git/
+.gitignore
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Static (will be built in Docker)
+static/
+
+# Misc
+*.log
+.DS_Store
+tests/
+
+# Large data files
+SC_4label.csv
+
