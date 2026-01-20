@@ -26,11 +26,11 @@ export function Navbar() {
 
   const navLinks = [
     { href: '/', label: 'Home', icon: null },
-    { href: '/scanner', label: 'Scanner', icon: '🔍' },
-    { href: '/trading', label: 'Trading', icon: '📈' },
-    { href: '/agents', label: 'AI Agents', icon: '🤖' },
-    { href: '/workflows', label: 'Workflows', icon: '⚡' },
-    { href: '/dashboard', label: 'Dashboard', icon: '📊' },
+    { href: '/scanner', label: 'Scanner', icon: '' },
+    { href: '/trading', label: 'Trading', icon: '' },
+    { href: '/agents', label: 'AI Agents', icon: '' },
+    { href: '/workflows', label: 'Workflows', icon: '' },
+    { href: '/dashboard', label: 'Dashboard', icon: '' },
   ];
 
   return (

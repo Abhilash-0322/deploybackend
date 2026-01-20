@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Aptos Shield | AI-Powered Smart Contract Security",
+  title: "Chain Sentinel.ai",
   description: "Real-time compliance and security monitoring for Aptos blockchain dApps. Scan, validate, and monitor smart contracts with AI-powered vulnerability detection.",
   keywords: ["Aptos", "blockchain", "smart contracts", "security", "AI", "compliance"],
 };
